@@ -1,0 +1,165 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: #141414;
+}
+.EnTete{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: -140px;
+    margin-top: 30px;
+}
+#NameM{
+    color: white;
+    margin-left: -7px;
+    margin-bottom: 25px;
+}
+.Lab{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 40px;
+    margin-top: -50px;
+}
+.Map{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 80px;
+}
+.Map a{
+    margin-left: 110px;
+    text-decoration: underline transparent;
+}
+.GMap{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 30px;
+}
+.Tittle{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+    background-color: rgba(128, 128, 128, 0.445);
+    border: solid rgb(49, 49, 49);
+    padding: 10px;
+}
+.Corps{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 3%;
+    margin-bottom: 2%;
+}
+.Info{
+    background-color: rgba(128, 128, 128, 0.295);
+    padding-right: 5%;
+    padding-left: 5%;
+    padding-top: 2%;
+    padding-bottom: 5%;
+}
+.Info .Home{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: #80808000;
+}
+.Info .Tel{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: #80808000;
+}
+.Info .Contact{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: #80808000;
+}
+.Inscri{
+    flex-direction: column;
+    margin-right: 5%;
+    border: solid 1px green;
+    padding-left: 1%;
+    padding-right: 1%;
+    padding-top: 2%;
+    padding-bottom: 4%;
+}
+#Nom{
+    display: flex;
+    border: solid 1px rgb(161, 161, 161);
+    background-color: white;
+    outline: none;
+    width: 320px;
+    height: 20px;
+    margin-bottom: 4%;
+}
+#Email{
+    display: flex;
+    border: solid 1px rgb(161, 161, 161);
+    background-color: white;
+    outline: none;
+    width: 320px;
+    height: 20px;
+    margin-bottom: 4%;
+}
+#Tel{
+    display: flex;
+    border: solid 1px rgb(161, 161, 161);
+    background-color: white;
+    outline: none;
+    width: 320px;
+    height: 20px;
+    margin-bottom: 4%;
+}
+#SMS{
+    display: flex;
+    border: solid 1px rgb(161, 161, 161);
+    background-color: white;
+    outline: none;
+    width: 550px;
+    height: 100px;
+    margin-bottom: 5%;
+}
+.InfoFin{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: #ffc0cb;   
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+.InfoFin .texte1{
+    background: none;
+}
+.InfoFin .texte2{
+    background: none;
+}
+.InfoFin .texte3{
+    background: none;
+}
+.Dernier{
+    display: flex;
+    margin-top: 1.5%;
+    background: none;
+    color: white;
+}
+.Dernier .Last1{
+    background: none;
+}
+.Dernier .Last2{
+    background: none;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+.Dernier .Last3{
+    background: none;
+}
